@@ -33,7 +33,7 @@
   box-sizing: border-box;
 }
 
-i {
+.circles i {
   color: #425374;
   font-size: 5rem;
 }
@@ -122,7 +122,7 @@ i {
   left: 50%;
   width: 25px;
   height: 25px;
-  animation-delay: 15s;
+  animation-delay: 10s;
   animation-duration: 45s;
 }
 
@@ -131,7 +131,7 @@ i {
   width: 15px;
   height: 15px;
   animation-delay: 2s;
-  animation-duration: 35s;
+  animation-duration: 25s;
 }
 
 .circles i:nth-child(10){
@@ -146,8 +146,8 @@ i {
   left: 60%;
   width: 120px;
   height: 120px;
-  animation-delay: 8s;
-  animation-duration: 11s;
+  animation-delay: 3s;
+  animation-duration: 24s;
 }
 
 @media (min-width: 540px) {

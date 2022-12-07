@@ -1,19 +1,17 @@
-- name: Longest Word Game
-  description: Decent description of the app
-  image: projects/placeholder.png
-  url: https://www.google.com
+- name: Not ALone
+  description: App for communicating with and organizing volunteers around the world. Finding volunteers with ease while creating an event page.
+  role: Backend Developer
+  image: projects/Not_alone_home.png
+  url: https://not-alone-na.herokuapp.com/
 
-- name: Movie Watchlist
-  description: Decent description of the app
-  image: projects/placeholder.png
-  url: https://www.google.com
+- name: Homestopia
+  description: App for finding homestays as well as hosting your house as a homestay.
+  role: Lead Developer
+  image: projects/Homestopia_landing.png
+  url: "nolink"
 
-- name: Airbnb
+- name: Fresh Mikan
   description: Decent description of the app
-  image: projects/placeholder.png
-  url: https://www.google.com
-
-- name: Final project
-  description: Decent description of the app
+  role: Project Lead
   image: projects/placeholder.png
   url: https://www.google.com
