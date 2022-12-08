@@ -4,16 +4,17 @@
       <div id="projects">
         <div class="cards">
           <% data.projects.each do |project| %>
-            <div class="card-product">
+            <div class="card-product h-100">
               <%= image_tag project.image, alt: "project image" %>
               <div class="card-product-infos w-100">
-                <div class="d-flex align-items-center">
+                <div class="d-flex align-items-center description">
                   <h2><%= project.name %></h2>
-                  <p class="mx-2">(<%= project.role %>)</p>
                   <% link_to project.url, class: 'external-link', target: '_blank' do %>
                     <i class="fas fa-external-link-alt"></i>
                   <% end %>
                 </div>
+                <p class="my-2">Role: <%= project.role %></p>
+                <p>Used: <%= project.used %></p>
                 <p><%= project.description %></p>
               </div>
             </div>

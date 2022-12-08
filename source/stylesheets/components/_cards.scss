@@ -54,6 +54,15 @@
   }
 }
 
+.description h2 {
+  font-family: "Prata", "Georgia", "serif";
+  font-size: 2em;
+}
+
+.description p {
+  font-family: "Montserrat", "Helvetica", "sans-serif";
+}
+
 // Smallest device
 @media (min-width: 100px) and (max-width: 575px) {
   .cards {
