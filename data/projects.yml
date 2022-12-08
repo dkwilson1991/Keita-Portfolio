@@ -1,18 +1,30 @@
-- name: Not ALone
+- name: 💚 Not ALone
   description: App for communicating with and organizing volunteers around the world. Finding volunteers with ease while creating an event page.
   role: Backend Developer
   image: projects/Not_alone_home.png
   url: https://not-alone-na.herokuapp.com/
   used: <i class="devicon-html5-plain"></i> <i class="devicon-css3-plain"></i> <i class="devicon-javascript-plain"></i> <i class="devicon-bootstrap-plain"></i> <i class="devicon-sass-original"></i> <i class="devicon-ruby-plain"></i> <i class="devicon-rails-plain"></i>
 
-- name: Homestopia
+- name: 🏠 Homestopia
   description: App for finding homestays as well as hosting your house as a homestay.
   role: Lead Developer
   image: projects/Homestopia_landing.png
   used: <i class="devicon-html5-plain"></i> <i class="devicon-css3-plain"></i> <i class="devicon-javascript-plain"></i> <i class="devicon-bootstrap-plain"></i> <i class="devicon-sass-original"></i> <i class="devicon-ruby-plain"></i> <i class="devicon-rails-plain"></i>
 
-- name: Fresh Mikan
+- name: 🍊 Fresh Mikan
   description: Decent description of the app
   role: Project Lead
-  image: projects/placeholder.png
+  image: projects/Fresh_mikan.png
   used: <i class="devicon-html5-plain"></i> <i class="devicon-css3-plain"></i> <i class="devicon-bootstrap-plain"></i> <i class="devicon-sass-original"></i> <i class="devicon-ruby-plain"></i> <i class="devicon-rails-plain"></i>
+
+- name: 🎮 2-D Scroller (Metroidvania)
+  description: Reach the final stage while jumping over needles, avoid drowning, and don't get too close to those slimy things!
+  role: Solo Project
+  image: projects/Tile_Vania.gif
+  used: <i class="devicon-csharp-plain"></i> <i class="devicon-unity-original"></i>
+
+- name: 🚀 Pew pew Spaceship
+  description: Shoot enemy spaceships with pew pew spaceship.
+  role: Solo Project
+  image: projects/BattleGalactica.gif
+  used: <i class="devicon-csharp-plain"></i> <i class="devicon-unity-original"></i>
