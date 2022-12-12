@@ -12,7 +12,7 @@
   used: <i class="devicon-html5-plain"></i> <i class="devicon-css3-plain"></i> <i class="devicon-javascript-plain"></i> <i class="devicon-bootstrap-plain"></i> <i class="devicon-sass-original"></i> <i class="devicon-ruby-plain"></i> <i class="devicon-rails-plain"></i>
 
 - name: 🍊 Fresh Mikan
-  description: Decent description of the app
+  description: List all of your favorite movies with Fresh Mikan. Where you can share with your friends your fresh list.
   role: Project Lead
   image: projects/Fresh_mikan.png
   used: <i class="devicon-html5-plain"></i> <i class="devicon-css3-plain"></i> <i class="devicon-bootstrap-plain"></i> <i class="devicon-sass-original"></i> <i class="devicon-ruby-plain"></i> <i class="devicon-rails-plain"></i>
@@ -22,6 +22,7 @@
   role: Solo Project
   image: projects/Tile_Vania.gif
   used: <i class="devicon-csharp-plain"></i> <i class="devicon-unity-original"></i>
+  url: No link
 
 - name: 🚀 Pew pew Spaceship
   description: Shoot enemy spaceships with pew pew spaceship.
