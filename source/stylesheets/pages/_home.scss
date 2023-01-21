@@ -19,3 +19,62 @@ body {
   color: #373f51ff;
   background-color: #ededed9e;
 }
+
+.selected-language {
+  display: flex;
+  align-content: center;
+  gap: 8px;
+}
+
+.container {
+  display: relative;
+}
+
+.check {
+  position: relative;
+  width: 40px;
+}
+
+.container .content {
+  display: none;
+}
+
+.container .content.contentEnglish {
+  display: block;
+}
+
+.check:before {
+  content: '';
+  position: absolute;
+  width: 46px;
+  height: 25px;
+  background: #425374;
+  border-radius: 25px;
+}
+
+.check:checked:before {
+  background: #7d9ddf;
+}
+
+.check:after {
+  content: '';
+  position: absolute;
+  left: 0px;
+  width: 25px;
+  height: 25px;
+  background: #fff;
+  border-radius: 25px;
+  transition: 0.25s;
+  border: 2px solid #425374;
+}
+
+.check:checked:after {
+  left: 25px;
+  border: 2px solid #425374;
+}
+
+.check:checked {
+  .content.contentEnglish {
+    display: none;
+  }
+}
